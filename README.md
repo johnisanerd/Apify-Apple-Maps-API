@@ -301,4 +301,4 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the Apple Maps API to power local search, place enrichment, and market research with reliable, structured results.*
 
-Last Updated: 2026.05.30
+Last Updated: 2026.06.15
